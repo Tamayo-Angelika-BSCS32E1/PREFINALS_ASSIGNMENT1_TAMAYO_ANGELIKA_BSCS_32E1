@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{3F2362DD-5482-42D8-B834-388155620290}|ProtectedApi\\ProtectedApi.csproj|solutionrelative:protectedapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3F2362DD-5482-42D8-B834-388155620290}|ProtectedApi\\ProtectedApi.csproj|e:\\college edrel\\college\\3rd year\\2nd sem\\cs elective\\prefinals\\prefinals_auth_tamayo_angelika\\prefinals_auth_tamayo_angelika\\protectedapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2362DD-5482-42D8-B834-388155620290}|ProtectedApi\\ProtectedApi.csproj|solutionrelative:protectedapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2362DD-5482-42D8-B834-388155620290}|ProtectedApi\\ProtectedApi.csproj|e:\\college edrel\\college\\3rd year\\2nd sem\\cs elective\\prefinals\\prefinals_auth_tamayo_angelika\\prefinals_auth_tamayo_angelika\\protectedapi\\secret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2362DD-5482-42D8-B834-388155620290}|ProtectedApi\\ProtectedApi.csproj|solutionrelative:protectedapi\\secret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3F2362DD-5482-42D8-B834-388155620290}|ProtectedApi\\ProtectedApi.csproj|e:\\college edrel\\college\\3rd year\\2nd sem\\cs elective\\prefinals\\prefinals_auth_tamayo_angelika\\prefinals_auth_tamayo_angelika\\protectedapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3F2362DD-5482-42D8-B834-388155620290}|ProtectedApi\\ProtectedApi.csproj|solutionrelative:protectedapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
@@ -18,8 +26,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Secret.cs",
+              "DocumentMoniker": "E:\\COLLEGE EDREL\\COLLEGE\\3RD YEAR\\2ND SEM\\CS ELECTIVE\\PREFINALS\\PREFINALS_AUTH_TAMAYO_ANGELIKA\\PREFINALS_AUTH_TAMAYO_ANGELIKA\\ProtectedApi\\Secret.cs",
+              "RelativeDocumentMoniker": "ProtectedApi\\Secret.cs",
+              "ToolTip": "E:\\COLLEGE EDREL\\COLLEGE\\3RD YEAR\\2ND SEM\\CS ELECTIVE\\PREFINALS\\PREFINALS_AUTH_TAMAYO_ANGELIKA\\PREFINALS_AUTH_TAMAYO_ANGELIKA\\ProtectedApi\\Secret.cs",
+              "RelativeToolTip": "ProtectedApi\\Secret.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T13:59:58.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\COLLEGE EDREL\\COLLEGE\\3RD YEAR\\2ND SEM\\CS ELECTIVE\\PREFINALS\\PREFINALS_AUTH_TAMAYO_ANGELIKA\\PREFINALS_AUTH_TAMAYO_ANGELIKA\\ProtectedApi\\Program.cs",
+              "RelativeDocumentMoniker": "ProtectedApi\\Program.cs",
+              "ToolTip": "E:\\COLLEGE EDREL\\COLLEGE\\3RD YEAR\\2ND SEM\\CS ELECTIVE\\PREFINALS\\PREFINALS_AUTH_TAMAYO_ANGELIKA\\PREFINALS_AUTH_TAMAYO_ANGELIKA\\ProtectedApi\\Program.cs",
+              "RelativeToolTip": "ProtectedApi\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T13:58:51.953Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,14 +62,14 @@
               "RelativeDocumentMoniker": "ProtectedApi\\Controllers\\ValuesController.cs",
               "ToolTip": "E:\\COLLEGE EDREL\\COLLEGE\\3RD YEAR\\2ND SEM\\CS ELECTIVE\\PREFINALS\\PREFINALS_AUTH_TAMAYO_ANGELIKA\\PREFINALS_AUTH_TAMAYO_ANGELIKA\\ProtectedApi\\Controllers\\ValuesController.cs",
               "RelativeToolTip": "ProtectedApi\\Controllers\\ValuesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABYAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwDEAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-02T14:36:02.677Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\COLLEGE EDREL\\COLLEGE\\3RD YEAR\\2ND SEM\\CS ELECTIVE\\PREFINALS\\PREFINALS_AUTH_TAMAYO_ANGELIKA\\PREFINALS_AUTH_TAMAYO_ANGELIKA\\ProtectedApi\\appsettings.json",
               "RelativeDocumentMoniker": "ProtectedApi\\appsettings.json",
@@ -43,8 +77,7 @@
               "RelativeToolTip": "ProtectedApi\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-02T14:34:26.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T14:34:26.069Z"
             }
           ]
         }
